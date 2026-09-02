@@ -1,7 +1,4 @@
 # Responsible_Agentic_AI_in_India_BFSI_Sector
-Document for Public Review
-# Responsible Agentic AI in India’s BFSI Sector
-
 This repository hosts the public-review HTML edition of **Report Draft Ver 1.0**. The report examines how banks, insurers, securities firms, payment operators, and fintechs can deploy agentic AI responsibly, with practical guidance covering RBI FREEAI, NITI Aayog Responsible AI principles, DPDP obligations, model risk, governance, security, and sector-specific use cases.
 
 ## How to review and comment
