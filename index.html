@@ -1741,10 +1741,7 @@ document.querySelectorAll('.comment-section').forEach(b=>b.addEventListener('cli
 document.querySelector('#generalComment').addEventListener('click',()=>openComment(''));
 document.querySelector('#copyLink').addEventListener('click',async e=>{await navigator.clipboard.writeText(location.href);const old=e.target.textContent;e.target.textContent='Copied';setTimeout(()=>e.target.textContent=old,1400)});
 </script>
-</body>
-</html>
-
-<script src="https://giscus.app/client.js"
+  <script src="https://giscus.app/client.js"
         data-repo="Mchockalingam/Responsible_Agentic_AI_in_India_BFSI_Sector"
         data-repo-id="R_kgDOUL9UnQ"
         data-category="General"
@@ -1759,3 +1756,7 @@ document.querySelector('#copyLink').addEventListener('click',async e=>{await nav
         crossorigin="anonymous"
         async>
 </script>
+
+</body>
+</html>
+
